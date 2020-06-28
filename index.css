@@ -1,0 +1,12 @@
+header{background-color: rgba(101, 252, 81, 0.774);
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: crimson;}
+body{background-color: cadetblue;
+    background-image: image();
+}
+footer{
+    margin-bottom: 100;
+    float: left;
+    padding: 0;
+    
+}
