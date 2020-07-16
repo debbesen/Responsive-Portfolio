@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+/* .indexBody{
+    background-image: url(../imgs/Down\ .PNG);
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    */
+}
+.contact{
+    float: left;
+}
+p{
+    text-align: left;
+    float: unset;
+}
+.box1{
+    height: max-content;
+    width: max-content;
+    padding: 20px;
+    border: red;
+    position: left;
+    text-align: left;
+    border: red;
+}
+.col{
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+
+}
+
+
+
+
+footer{
+    bottom: 0px;
+    left: 0px;
+}
